@@ -1,7 +1,7 @@
-
+# Mnist Using Gans
 ## Table of Contents (Optional)
 
-- [Data collection](#Data collection)
+- [Data collection](#Data_collection)
 - [Understanding the data](#Understanding_data)
 - [Data Cleaning](#Data_Cleaning)
 - [Model Architecture](#Model_Architecture)
@@ -15,7 +15,7 @@
 ### from pip
 - `pip install tensorflow-gpu` 
 
-## Data collection
+## Data_collection
 - we are using inbuit data provided by library
 ---
 
